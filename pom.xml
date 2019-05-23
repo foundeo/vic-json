@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>vic-json</groupId>
+  <artifactId>deps</artifactId>
+  <version>1</version>
+  <dependencies>
+	<dependency>
+	    <groupId>org.yaml</groupId>
+	    <artifactId>snakeyaml</artifactId>
+	    <version>1.23</version>
+	</dependency>
+  </dependencies>
+</project>
